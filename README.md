@@ -1,2 +1,2 @@
-# Sitio-de-Blog-de-Tecnolog-a
+# Sitio-Blog-de-Tecnologia
 Sitio de Blog sobre tecnología estilo CMS
